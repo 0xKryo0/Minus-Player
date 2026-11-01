@@ -21,6 +21,8 @@ Codec support is ultimately device/decoder dependent; the app will expose capabi
 - Media3 playback foundation
 - Adaptive large-screen and windowed UI
 - Modular playback, media-library, playlist, subtitle and settings layers
+
+Forgot about it, contempleting since googlebook OS , that i had hope for is drawning
 - Unit and Compose UI tests from the beginning
 - Continuous build/test validation through GitHub Actions
 
